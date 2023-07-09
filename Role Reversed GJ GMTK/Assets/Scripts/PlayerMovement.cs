@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //transform.Translate(new Vector2(1f,0f) * speed * Time.deltaTime);
+        
     }
 
     private void FixedUpdate()
